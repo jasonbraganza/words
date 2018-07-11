@@ -45,9 +45,11 @@ After this we went out for DGPLUG/Volunteers dinner at BBQ Nation. It was quite 
 
 **Day 2** 
 
-The last day of conference I remember myself wondering how a programming language translates into philosophy and how that philosophy unites a diverse nation like India. The feeling was amazing but I could sense the sadness. The sadness of parting from friends who meet once in an year. I could actually now relate all IRC nicks with their faces. It just brings a lot more on the table.
+The last day of conference, I remember having thoughts about how a programming language translates into philosophy and how that philosophy unites a diverse nation like India.  
+While that feeling of inclusivity was amazing, there was also a touch of sadness, the melancholy of parting from friends who meet just once a year.  
+I could actually now relate all IRC nicks with their faces. It  brings a lot more to the table. It made them all relatable, more … human.
 
-At last we all went to the humdrum of our normal life with the promise to meet again. But I still wonder how a technology bring comradeship between people from all nook and corners of life. How it relates from a school teacher to a product engineer . T his makes  me feel that this is more than just a programming language , this is that unique medium that unites people and give them power to make things right.
+And at last we all returned to the humdrum of our normal lives with a promise to meet again. I still wonder at how technology creates camaraderie between people from all nooks and corners of life. At how it relates a school teacher to a product engineer. It makes  me feel that Python is more than just a programming language; it’s a unique medium that unites people and gives them power to make things right.
 
 With this thought fhackdroid signs out!
 
