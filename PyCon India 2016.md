@@ -2,15 +2,30 @@
 
 
 ---
+
 **Day 0**
 
-"This is awesome!", this was my first reaction when I boarded my first flight to Delhi. I was having trouble in finding a proper accommodation Kushal, Sayan and Chandan helped me a lot in that part, I finally got honour of  bunking with Sayan , Subho and Rtnpro which I will never forget. So, I landed and directly went to JNU convention center. I met the whole  Red Hat intern gang . It was fun to meet them all. I had proposed Pagure for Dev Sprint and I pulled in Vivek to do the same.
+“This is awesome! This is so awesome!”, these were was my first reactions as I boarded my first flight to Delhi.  
 
-The dev sprint started and there was no sign of Vivek or Saptak, Saptak is FOSSASIA contributor and Vivek  contributes to Pagure with me. Finally it was my turn to talk about Pagure on stage , it was beautiful  the experience and the energy.  We got a lot of young and new contributors and we tried to guide them and make them send at least one PR.  One of them was lucky enough to actually make a PR and it got readily merged.
+I was having trouble finding proper accommodation.  
+Kushal, Sayan and Chandan helped me a lot there.  
+I finally got the honour of  bunking with Sayan, Subho and Rtnpro. This made for an unforgettable experience!  
+I landed and directly went to JNU convention center. I met the whole  Red Hat intern gang. It was so much fun meeting them all.  
+I had proposed Pagure for the Dev Sprints and I roped in Vivek as collaborator and partner in crime.
 
-I met a lot of other contributors and other mentors and each and every project was simply amazing. I wish I could help all of them some day. We also met Paul, who writes code for PyCharm, we had a nice discussion over Vim v/s PyCharm.
+Imagine my metal agony and tension when the sprint started and there was no sign of Vivek or Saptak. Saptak is a FOSSASIA contributor and Vivek  contributes to Pagure with me.  
+Finally it was my turn to talk about Pagure on stage.
+It was all the things I feared. It was nerve wrackingly terryfing.
+And yet … it was beautiful!
+The experience and the energy gave me a new high and made me confident.  
+We got a lot of young and new contributors, and we tried to guide them and make them send at least one PR.  One of them persisted and made actually made a PR which got readily merged.
 
-Finally the day ended with us Vivek, Sayan , Subho  , Saptak and me going out to grab some dinner. I bunked with Sayan and Subho and we hacked all night. I was configuring my Weechat and was trying all the plugins available and trust me there are a lot of them.
+I met lots of other contributors and mentors!
+Everything sounded fun! Each and every project was simply amazing. 
+I wished I could contribute to and help all of them.  
+We also met Paul, who writes code for PyCharm, and had an animated discussion over Vim v/s PyCharm.
+
+Finally the day ended with us, (Vivek, Sayan, Subho, Saptak and me) going out to dinner. I bunked with Sayan and Subho and we hacked all night long. I was configuring my Weechat and was trying all the plugins available and trust me there are *a lot* of them.
 
 **Day 1**
 
