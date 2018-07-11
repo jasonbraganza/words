@@ -5,7 +5,7 @@
 
 **Day 0**
 
-“This is awesome! This is so awesome!”, these were was my first reactions as I boarded my first flight to Delhi.  
+“This is awesome! This is so awesome!”, these were was my reactions as I boarded my first flight to Delhi.  
 
 I was having trouble finding proper accommodation.  
 Kushal, Sayan and Chandan helped me a lot there.  
@@ -29,17 +29,19 @@ Finally the day ended with us, (Vivek, Sayan, Subho, Saptak and me) going out to
 
 **Day 1**
 
-I was a session chair in one of the lecture room and it was a crazy experience from learning to write a firmware for a drone, using generators to write multi-threaded program and also to work with salt stack. The food was really good but the line for food was equally "pythonic" as the code should be.
+I was a session chair in one of the lecture rooms and it was crazy!  
+From learning to write firmware for a drone, to using generators to write multi-threaded programs to working with the  salt stack, it was a rich varied, mind bending experience
 
-There were a lot of stalls put up and I went to all of them and had a chat with them. My favorite one was PyCharm because Paul promised me to teach me some neat tricks to use PyCharm.
+The food was really good but the line for food was “pythonic!”
 
-The Redhat and Pyladies booth were also there which also were very informative and they were responsible making people aware about certain social issues and getting women in tech.
+There were a lot of stalls put up and I went to all of them chatted with the folks manning the stalls. My favorite one was PyCharm because Paul promised me to teach me some neat tricks.
+The Pyladies booth was very informative and were responsible for making attendees aware about certain social issues and about getting women in tech.
 
-We had two keynotes on this day one by BG and the other by VanL and trust me both of the keynotes were so amazing the they make you look technology from a different view point altogether.
+We had two keynotes by Baishampayan Ghose and Van Lindberg. Both of the keynotes were so varied, yet so amazing,  they made me look at technology from a different view point altogether.
 
-One of the amazing part of such conferences are Open Space and Lightning talks. There are few open spaces which I attended and I found them really enthralling. I was waiting for the famous Stair case meeting of Dgplug.  We met Kushal's mentor, Sartaj and he gave a deep insight in what and why we should contribute to open source. He basically told us that even if one's code is not used by anyone he will still be writing code for the love of doing it.
+One really cool part of such a conference are the Open Spaces and Lightning talks. I attended a few and I found them enthralling. I was so eagerly waiting for DGPLUG’s famous staircase meeting. I met Kushal’s mentor, Sartaj and he gave us deep insights into the  whats and whys and wherefores of the importance of contributing to open source. My big takeaway from his time with us, was that even if one's code is not used by anyone, they should still be writing code for the love of  it.
 
-After this we went for Dgplug/Volunteers  dinner at BBQ nation, it was an eventful evening ;) to be modest.
+After this we went out for DGPLUG/Volunteers dinner at BBQ Nation. It was quite an eventful evening ;)
 
 **Day 2** 
 
